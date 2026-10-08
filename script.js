@@ -1,10 +1,9 @@
-// ==============================================
+// ============================================
 // CONFIGURACIÓN
-// ==============================================
+// ============================================
+// REEMPLAZA ESTA API KEY CON LA TUYA
 const API_KEY = 'c29d3c2181628f9b733d26e941e253c5';
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
-const API_FORECAST = 'https://api.openweathermap.org/data/2.5/forecast';
-
 // ============================================
 // REFERENCIAS AL DOM
 // ============================================
